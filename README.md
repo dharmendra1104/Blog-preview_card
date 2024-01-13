@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-(https://github.com/dharmendra1104/Blog-preview_card/blob/main/active-states.jpg)
+https://github.com/dharmendra1104/Blog-preview_card/blob/main/active-states.jpg
 
 ## Welcome! 👋
 
