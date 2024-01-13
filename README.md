@@ -1,6 +1,5 @@
 # Frontend Mentor - Blog preview card
-
-This is a solution to the [Blog preview card challenge on Frontend Mentor]("https://github.com/dharmendra1104/Blog-preview_card/blob/main/active-states.jpg").
+![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
